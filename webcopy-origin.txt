@@ -1,0 +1,348 @@
+Uri: http://justpistachio.com.tr/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:500
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\css.css
+Content Type: text/css
+
+Uri: http://justpistachio.com.tr/xml/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\xml\index.htm.xml
+Content Type: text/xml
+
+Uri: http://justpistachio.com.tr/css/?h=1230
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\css\index.htm.css
+Content Type: text/css
+
+Uri: http://justpistachio.com.tr/css/sevgane3.css
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\css\sevgane3.css
+Content Type: text/css
+
+Uri: http://justpistachio.com.tr/tr/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\tr\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/tr/vizyon/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\tr\vizyon\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/tr/misyon/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\tr\misyon\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/tr/hakkimizda/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\tr\hakkimizda\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/tr/urunler/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\tr\urunler\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/tr/multimedia/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\tr\multimedia\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/tr/iletisim/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\tr\iletisim\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/en/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\en\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/ar/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\ar\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/modul/full/source/jquery.fancybox.css
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul\full\source\jquery.fancybox.css
+Content Type: text/css
+
+Uri: http://justpistachio.com.tr/modul/full/source/helpers/jquery.fancybox-thumbs.css
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul\full\source\helpers\jquery.fancybox-thumbs.css
+Content Type: text/css
+
+Uri: http://justpistachio.com.tr/sayfa/235773/index.jpg
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\sayfa\235773\index.jpg
+Content Type: image/jpeg
+
+Uri: http://justpistachio.com.tr/sayfa/235777/index.jpg
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\sayfa\235777\index.jpg
+Content Type: image/jpeg
+
+Uri: http://justpistachio.com.tr/sayfa/235778/index.jpg
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\sayfa\235778\index.jpg
+Content Type: image/jpeg
+
+Uri: http://justpistachio.com.tr/sayfa/235774/index.jpg
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\sayfa\235774\index.jpg
+Content Type: image/jpeg
+
+Uri: http://justpistachio.com.tr/sayfa/235775/index.jpg
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\sayfa\235775\index.jpg
+Content Type: image/jpeg
+
+Uri: http://justpistachio.com.tr/sayfa/235776/index.jpg
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\sayfa\235776\index.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/channel/UC6CmstwJCAKxrP8Z5CkZ71g
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\channel\UC6CmstwJCAKxrP8Z5CkZ71g.html
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/js/tam/jquery-2.2.0.min.js
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\js\tam\jquery-2.2.0.min.js
+Content Type: application/javascript
+
+Uri: http://justpistachio.com.tr/hosting/1230/mz/gokhan_cardvizit2.png
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\hosting\1230\mz\gokhan_cardvizit2.png
+Content Type: image/png
+
+Uri: http://justpistachio.com.tr/image/bayrak/3/tr.png
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\image\bayrak\3\tr.png
+Content Type: image/png
+
+Uri: http://justpistachio.com.tr/image/bayrak/3/en.png
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\image\bayrak\3\en.png
+Content Type: image/png
+
+Uri: http://justpistachio.com.tr/image/bayrak/3/ar.png
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\image\bayrak\3\ar.png
+Content Type: image/png
+
+Uri: http://justpistachio.com.tr/modul_img/4222/540787.png
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul_img\4222\540787.png
+Content Type: image/png
+
+Uri: http://justpistachio.com.tr/modul_img/4222/291005.png
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul_img\4222\291005.png
+Content Type: image/png
+
+Uri: http://justpistachio.com.tr/modul_img/4222/362111.png
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul_img\4222\362111.png
+Content Type: image/png
+
+Uri: http://justpistachio.com.tr/modul_img/4222/460179.png
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul_img\4222\460179.png
+Content Type: image/png
+
+Uri: http://justpistachio.com.tr/modul_img/4222/536752.png
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul_img\4222\536752.png
+Content Type: image/png
+
+Uri: http://justpistachio.com.tr/modul_img/4222/624513.png
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul_img\4222\624513.png
+Content Type: image/png
+
+Uri: http://justpistachio.com.tr/modul_img/4222/687890.png
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul_img\4222\687890.png
+Content Type: image/png
+
+Uri: http://justpistachio.com.tr/modul/slider/effec/wowslider.js
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul\slider\effec\wowslider.js
+Content Type: application/javascript
+
+Uri: http://justpistachio.com.tr/modul/slider/effec/blur.js
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul\slider\effec\blur.js
+Content Type: application/javascript
+
+Uri: http://justpistachio.com.tr/modul/full/source/jquery.fancybox.js
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul\full\source\jquery.fancybox.js
+Content Type: application/javascript
+
+Uri: http://justpistachio.com.tr/modul/full/source/helpers/jquery.fancybox-thumbs.js
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul\full\source\helpers\jquery.fancybox-thumbs.js
+Content Type: application/javascript
+
+Uri: http://justpistachio.com.tr/sayfa/235773/index.jpg
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\sayfa\235773\k\index.jpg
+Content Type: image/jpeg
+
+Uri: http://justpistachio.com.tr/sayfa/235777/index.jpg
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\sayfa\235777\k\index.jpg
+Content Type: image/jpeg
+
+Uri: http://justpistachio.com.tr/sayfa/235778/index.jpg
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\sayfa\235778\k\index.jpg
+Content Type: image/jpeg
+
+Uri: http://justpistachio.com.tr/sayfa/235774/index.jpg
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\sayfa\235774\k\index.jpg
+Content Type: image/jpeg
+
+Uri: http://justpistachio.com.tr/sayfa/235775/index.jpg
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\sayfa\235775\k\index.jpg
+Content Type: image/jpeg
+
+Uri: http://justpistachio.com.tr/sayfa/235776/index.jpg
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\sayfa\235776\k\index.jpg
+Content Type: image/jpeg
+
+Uri: http://justpistachio.com.tr/image/sosyal/1/109.png
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\image\sosyal\1\109.png
+Content Type: image/png
+
+Uri: http://justpistachio.com.tr/js/index.js
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\js\index.js
+Content Type: application/javascript
+
+Uri: http://justpistachio.com.tr/js/sevgane.js
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\js\sevgane.js
+Content Type: application/javascript
+
+Uri: http://justpistachio.com.tr/modul/slider/4000/bullet.png
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul\slider\4000\bullet.png
+Content Type: image/png
+
+Uri: http://justpistachio.com.tr/modul/slider/4000/arrows.png
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul\slider\4000\arrows.png
+Content Type: image/png
+
+Uri: http://justpistachio.com.tr/modul/slider/4000/pause.png
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul\slider\4000\pause.png
+Content Type: image/png
+
+Uri: http://justpistachio.com.tr/modul/slider/4000/play.png
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul\slider\4000\play.png
+Content Type: image/png
+
+Uri: http://justpistachio.com.tr/modul/slider/4000/triangle.png
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul\slider\4000\triangle.png
+Content Type: image/png
+
+Uri: http://justpistachio.com.tr/modul_img/4222/tema/662607.jpg
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul_img\4222\tema\662607.jpg
+Content Type: image/jpeg
+
+Uri: http://justpistachio.com.tr/image/logo.png
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\image\logo.png
+Content Type: image/png
+
+Uri: http://justpistachio.com.tr/image/svg/1/214.asp?r=fff
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\image\svg\1\214.asp.svg
+Content Type: image/svg+xml
+
+Uri: http://justpistachio.com.tr/image/svg/1/215.asp?r=fff
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\image\svg\1\215.asp.svg
+Content Type: image/svg+xml
+
+Uri: http://justpistachio.com.tr/css/?h=1230&sayfa=235766
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\css\index.htm-1.css
+Content Type: text/css
+
+Uri: http://justpistachio.com.tr/css/?h=1230&sayfa=235767
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\css\index.htm-2.css
+Content Type: text/css
+
+Uri: http://justpistachio.com.tr/css/?h=1230&sayfa=235768
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\css\index.htm-3.css
+Content Type: text/css
+
+Uri: http://justpistachio.com.tr/css/?h=1230&sayfa=235769
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\css\index.htm-4.css
+Content Type: text/css
+
+Uri: http://justpistachio.com.tr/css/?h=1230&sayfa=235770
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\css\index.htm-5.css
+Content Type: text/css
+
+Uri: http://justpistachio.com.tr/modul/modul_3/800/css.css
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul\modul_3\800\css.css
+Content Type: text/css
+
+Uri: http://justpistachio.com.tr/modul/modul_3/800/demo.youmax.min.js
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul\modul_3\800\demo.youmax.min.js
+Content Type: application/javascript
+
+Uri: http://justpistachio.com.tr/css/?h=1230&sayfa=235771
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\css\index.htm-6.css
+Content Type: text/css
+
+Uri: https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyABJwcRq-oUKsiEKFXUv4mCfr5Y7HwR2W8
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\maps\api\js
+Content Type: text/javascript
+
+Uri: http://justpistachio.com.tr/image/svg/iletisim/1.asp?r=fff
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\image\svg\iletisim\1.asp.svg
+Content Type: image/svg+xml
+
+Uri: http://justpistachio.com.tr/image/svg/iletisim/3.asp?r=fff
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\image\svg\iletisim\3.asp.svg
+Content Type: image/svg+xml
+
+Uri: http://justpistachio.com.tr/image/svg/iletisim/2.asp?r=fff
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\image\svg\iletisim\2.asp.svg
+Content Type: image/svg+xml
+
+Uri: http://justpistachio.com.tr/image/svg/iletisim/4.asp?r=fff
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\image\svg\iletisim\4.asp.svg
+Content Type: image/svg+xml
+
+Uri: http://justpistachio.com.tr/image/svg/iletisim/5.asp?r=fff
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\image\svg\iletisim\5.asp.svg
+Content Type: image/svg+xml
+
+Uri: http://justpistachio.com.tr/en/vizyon/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\en\vizyon\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/en/misyon/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\en\misyon\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/en/hakkimizda/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\en\hakkimizda\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/en/urunler/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\en\urunler\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/en/multimedia/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\en\multimedia\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/en/iletisim/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\en\iletisim\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/ar/vizyon/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\ar\vizyon\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/ar/misyon/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\ar\misyon\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/ar/hakkimizda/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\ar\hakkimizda\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/ar/urunler/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\ar\urunler\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/ar/multimedia/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\ar\multimedia\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/ar/iletisim/
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\ar\iletisim\index.htm
+Content Type: text/html
+
+Uri: http://justpistachio.com.tr/modul/full/source/fancybox_sprite.png
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul\full\source\fancybox_sprite.png
+Content Type: image/png
+
+Uri: http://justpistachio.com.tr/modul/full/source/fancybox_loading.gif
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul\full\source\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: http://justpistachio.com.tr/modul/full/source/blank.gif
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul\full\source\blank.gif
+Content Type: image/gif
+
+Uri: http://justpistachio.com.tr/modul/full/source/fancybox_overlay.png
+File Name: C:\Downloaded Web Sites\justpistachio.com.tr\modul\full\source\fancybox_overlay.png
+Content Type: image/png
+
